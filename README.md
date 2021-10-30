@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JosLearn
 - 👀 I’m interested in learning GitHub and Linux
 - 🌱 I’m currently learning Linux command language
-- 💞️ I’m looking to collaborate on iRods projects with the university
+- 💞️ I’m looking to collaborate on iRods projects
 - 📫 How to reach me, by mail
 
 <!---
